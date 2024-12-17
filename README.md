@@ -38,10 +38,6 @@ O modelo conceitual inclui as seguintes entidades principais:
 1. Link: [DB Designer- E-commerceBD](https://dbdesigner.page.link/VqsNA4M9xEoqfoQc7)
 3. Explore o modelo conceitual e suas relações.  
 
-## 📝 Licença  
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.  
-
 ## 📚 Referências  
 
 - [DIO - Digital Innovation One](https://web.dio.me/)  
