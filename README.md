@@ -8,7 +8,7 @@ O objetivo deste projeto é criar um modelo de banco de dados que atenda às pri
 
 ## 🛠️ Ferramentas Utilizadas  
 
-- **Ferramenta de Modelagem**: [DB Designer](https://erd.dbdesigner.net/))  
+- **Ferramenta de Modelagem**: [DB Designer](https://erd.dbdesigner.net/)
 - **Plataforma de Estudo**: [DIO - Digital Innovation One](https://web.dio.me/)  
 
 ## 📖 Estrutura do Banco de Dados  
